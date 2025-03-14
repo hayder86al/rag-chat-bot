@@ -29,8 +29,8 @@ This project is a Retrieval-Augmented Generation (RAG) application that answers 
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/hayder86al/rag-chat-bot.git
+    cd rag-chat-bot
     ```
 
 2. Create a virtual environment and activate it:
